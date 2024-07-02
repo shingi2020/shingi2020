@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shingi2020
+- 👋 Hi, I’m Tsitsi
 - 👀 I’m interested in Data Visualization 
-- 🌱 I’m currently learning PG Diploma Data Science at Essex 
+- 🌱 I’m currently doing a Masters in Data Science and Machine Learning at Essex 
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me: Twitter @HeyTsitsi
 
